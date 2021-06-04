@@ -1,0 +1,38 @@
+.menu{
+    width: 50% !important;
+}
+
+a{
+    cursor: pointer;
+}
+img{
+    height: fit-content;
+}
+
+.black{
+    color: black;
+    font-size: x-large;
+}
+
+.fundo{
+    background: rgba(255,255,255, 0.4);
+    border-radius: 20px;
+}
+
+h2{
+    font-size: 27px !important;
+}
+
+.hvSites:hover{
+    background-color: cadetblue;
+    color: black;
+    cursor: pointer;
+}
+
+.menup:hover{
+    border-bottom: 1px solid cadetblue;
+}
+
+header, nav{
+    height: 72px;
+}
