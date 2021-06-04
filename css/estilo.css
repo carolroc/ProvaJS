@@ -33,3 +33,7 @@ h2{
 header, nav{
     height: 72px;
 }
+
+.cor{
+    background-color: rosybrown;
+}
