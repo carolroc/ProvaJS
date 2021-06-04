@@ -139,6 +139,7 @@ function rasparDramas(documento) {
         if (count < 25) {
             var divso =  document.createElement("div");
             divso.innerText = documento.querySelectorAll("h2")[count].innerText;
+            divso.classList.add("list-group-item");
             //divso.appendChild(div);
             divNo.appendChild(divso);
         }
